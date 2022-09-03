@@ -1,0 +1,27 @@
+.website-logo {
+  height: 40px;
+  width: 200px;
+}
+.un-list {
+  list-style-type: none;
+  display: flex;
+}
+.nav-home {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+  margin-right: 10px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  color: #ffffff;
+  background-color: #0b69ff;
+  height: 35px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 5px;
+}

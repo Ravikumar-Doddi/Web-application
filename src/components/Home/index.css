@@ -1,0 +1,25 @@
+.shop-btn {
+  color: #ffffff;
+  background-color: #0b69ff;
+  height: 35px;
+  border-width: 0px;
+  border-radius: 5px;
+  width: 120px;
+}
+.home-cont {
+  display: flex;
+  font-family: 'Roboto';
+  justify-content: space-between;
+}
+.head {
+  font-size: 40px;
+}
+.ui-container {
+  width: 50%;
+}
+.fashion {
+  width: 40%;
+}
+.main-cont {
+  padding: 30px;
+}
